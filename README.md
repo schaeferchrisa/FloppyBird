@@ -1,5 +1,5 @@
 # Floppy Bird
-A Flappy Bird knock-off with retro computers.
+A retro computer themed Flappy Bird knock-off.
 
 ## Technologies
 * JavaScript
