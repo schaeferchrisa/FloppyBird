@@ -1,5 +1,5 @@
 # Floppy Bird
-Floppy Bird is a retro-computer-themed version of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird), a mobile game released in 2013 by Dong Nguyen. In Floppy Bird, you control a flying Floppy disk (bird?) and try to jump over stacks of retro computers to gain points.
+Floppy Bird is a retro-computer-themed version of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird), a mobile game released in 2013 by Dong Nguyen. In Floppy Bird, you control a flying floppy disk (bird?) and try to jump over stacks of retro computers to gain points.
 
 ![Floppy Bird: The Game](/images/floppybird.png)
 
